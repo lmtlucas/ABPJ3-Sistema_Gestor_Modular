@@ -1,8 +1,8 @@
-# ABPJ3-Sistema_Gestor_Modular
+# Gestor Escolar
 
 ## 📖 Descrição
 
-
+Esse Sistema de gestão escolar permite cadastrar alunos, inserir notas, calcular médias, verificar aprovado/recuperação/reprovado e listar os alunos cadastrados.
 
 _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnico em Desenvolvimento WEB e Mobile_
 
@@ -10,7 +10,7 @@ _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnic
 
 ## 🎯 Objetivo
 
-
+- Gerenciar alunos e notas retornando médias, aprovações e reprovações 
 - Aplicar conceitos de python básico em uma atividade para resolver problemas reais.
 
 ---
@@ -47,8 +47,11 @@ _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnic
 ---
 
 ## 📌 Funcionalidades
-- Entrada de dados pelo usuário.
-- Exibição dos resultados e mensagens.
+- cadastrar alunos;
+- inserir notas;
+- calcular médias;
+- verificar aprovado/recuperação/reprovado;
+- listar os alunos cadastrados.
 
 ---
 
