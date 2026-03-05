@@ -2,7 +2,7 @@
 
 ## 📖 Descrição
 
-Esse Sistema de gestão escolar permite cadastrar alunos, inserir notas, calcular médias, verificar aprovado/recuperação/reprovado e listar os alunos cadastrados.
+Esse Sistema de gestão escolar permite cadastrar alunos, inserir notas, calcular médias, verificar aprovado/recuperação/reprovado, excluir aluno do cadastro e listar os alunos cadastrados.
 
 _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnico em Desenvolvimento WEB e Mobile_
 
@@ -30,7 +30,7 @@ _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnic
 
 ## 📂 Estrutura do Projeto
 - main.py → contém os arquivos principais do código
-- modulo.py → 
+- modulo.py → contém as funções utilizadas no main.py
 - README.md → documentação do projeto  
 - fluxograma.png → imagem do fluxograma do projeto
 
@@ -47,10 +47,9 @@ _Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnic
 ---
 
 ## 📌 Funcionalidades
-- cadastrar alunos;
-- inserir notas;
-- calcular médias;
-- verificar aprovado/recuperação/reprovado;
+- cadastrar alunos e notas;
+- excluir alunos e suas notas do cadastro;
+- verificar médias e a situação aprovado/recuperação/reprovado;
 - listar os alunos cadastrados.
 
 ---
