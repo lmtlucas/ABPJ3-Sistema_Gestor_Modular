@@ -1,4 +1,5 @@
 import modulo as md #importando o modulo com funções e apelidando de md
+# from modulo import * (outra forma de importar)
 
 print('  - - - - - - - -\n| GESTOR ESCOLAR |\n  - - - - - - - -\n')
 
